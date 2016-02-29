@@ -1,0 +1,3 @@
+width:1120px
+color:#4d4d4d
+background:F87354
